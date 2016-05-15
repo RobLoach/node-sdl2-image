@@ -1,3 +1,4 @@
+// Dependencies
 var ref = require('ref');
 var ffi = require('ffi');
 var Struct = require('ref-struct');

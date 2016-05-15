@@ -1,6 +1,6 @@
 {
   "name": "node-sdl2-image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SDL2_Image bindings for Node.js.",
   "author": "Rob Loach <robloach@gmail.com>",
   "license": "MIT",
